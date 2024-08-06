@@ -22,3 +22,5 @@ Check out our key service offerings:
 ## Ready to ignite your insights? 🔥
 
 [Let's talk.](https://www.lumbreanalytics.com/contact)
+
+``Copyright © 2024 Lumbre Analytics, LLC``

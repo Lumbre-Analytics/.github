@@ -23,4 +23,4 @@ Check out our key service offerings:
 
 [Let's talk.](https://www.lumbreanalytics.com/contact)
 
-``Copyright © 2024 Lumbre Analytics, LLC``
+``Copyright © 2025 Lumbre Analytics, LLC``
